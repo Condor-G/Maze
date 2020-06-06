@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>walle.jpg</file>
+        <file>D.jpg</file>
+        <file>S.jpg</file>
+        <file>x.jpg</file>
+        <file>0.jpg</file>
+        <file>1.jpg</file>
+    </qresource>
+</RCC>
